@@ -21,12 +21,27 @@
 
 ## 产品截图
 
-<p align="center">
-  <img src="docs/screenshots/100zip-desktop-permission.png" alt="100zip 桌面端目录授权界面" width="78%" />
-</p>
+以下截图均来自 100zip v0.5.23 的浅色界面。
+
+### 网页端
+
+<table>
+<tr>
+<td><img src="docs/screenshots/web-01-extract-light.png" alt="网页端解压工作台" width="100%" /></td>
+<td><img src="docs/screenshots/web-02-compress-light.png" alt="网页端压缩工作台" width="100%" /></td>
+</tr>
+<tr>
+<td><img src="docs/screenshots/web-03-batch-light.png" alt="网页端批量解压页面" width="100%" /></td>
+<td><img src="docs/screenshots/web-04-settings-light.png" alt="网页端设置页面" width="100%" /></td>
+</tr>
+</table>
+
+### 手机端
 
 <p align="center">
-  <img src="docs/screenshots/100zip-mobile-home.png" alt="100zip 移动端解压工作台" width="31%" />
+  <img src="docs/screenshots/mobile-01-extract-light.png" alt="手机端解压工作台" width="31%" />
+  <img src="docs/screenshots/mobile-02-compress-light.png" alt="手机端压缩工作台" width="31%" />
+  <img src="docs/screenshots/mobile-03-settings-light.png" alt="手机端设置页面" width="31%" />
 </p>
 
 桌面端与移动端共用同一套本地处理能力：先授权需要访问的目录，再在 NAS 本机完成压缩、解压和包内预览。
