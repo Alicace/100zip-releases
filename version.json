@@ -1,6 +1,10 @@
 {
-  "version": "0.5.25",
-  "release_url": "https://github.com/Alicace/100zip-releases/releases/tag/v0.5.25",
+  "downloads": {
+    "arm64": "https://github.com/Alicace/100zip-releases/releases/download/v0.5.25/100zip_0.5.25_arm64.fpk",
+    "x86_64": "https://github.com/Alicace/100zip-releases/releases/download/v0.5.25/100zip_0.5.25_x86_64.fpk"
+  },
   "published_at": "2026-11-25",
-  "release_notes": "修复飞牛桌面客户端与扩展宿主下目录授权无响应问题；默认直接调用飞牛原生文件管理 SDK 选择压缩包和待压缩文件（免预先单独授权）；设置项改为即改即存；完善全链路按钮联动与异常兜底。"
+  "release_notes": "修复飞牛桌面客户端与扩展宿主下目录授权无响应问题；默认直接调用飞牛原生文件管理 SDK 选择压缩包和待压缩文件（免预先单独授权）；设置项改为即改即存；完善全链路按钮联动与异常兜底。",
+  "release_url": "https://github.com/Alicace/100zip-releases/releases/tag/v0.5.25",
+  "version": "0.5.25"
 }
